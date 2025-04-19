@@ -1,4 +1,5 @@
-NY8-Transport-clandestins
+VERSION 0.0.1
+
 FR/FRANCE
 
 Petit scritpe pour un rp ou la map est diviser entre le nord et le sur. Le principe faire passer les clandestins de l'autre cote du mur a bord de votre "BURRITO"
